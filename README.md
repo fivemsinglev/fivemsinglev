@@ -6,7 +6,7 @@
 
 ---
 
-[![Odtwarzacz Spotify](https://spotify-play-now-profile.vercel.app/api/spotify)] (https://open.spotify.com/track/2gCY88kKDnhR2gQ8p1SJ1Z?si=T9eY__XVRQSbEw0FWHat2g)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fzyuaxc3mn46oxp7fb5znx6oiq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fivemsinglev&icon=0&color=0)](https://visitcount.itsvg.in)
