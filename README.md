@@ -5,6 +5,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fivemsinglev&theme=dark&hide_border=true)<br/>
 
 ---
+
+[![Odtwarzacz Spotify](https://spotify-play-now-profile.vercel.app/api/spotify)] (https://open.spotify.com/track/2gCY88kKDnhR2gQ8p1SJ1Z?si=T9eY__XVRQSbEw0FWHat2g)
+
+---
 [![](https://visitcount.itsvg.in/api?id=fivemsinglev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
