@@ -6,7 +6,7 @@
 
 ---
 
-# Statistics
+# Profile Statistics
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fivemsinglev&theme=dark&hide_border=true)<br/>
 
