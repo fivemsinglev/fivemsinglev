@@ -11,9 +11,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fivemsinglev&theme=dark&hide_border=true)<br/>
 
 ---
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
